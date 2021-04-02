@@ -10,7 +10,7 @@ clases PHP/MYSQL
 <li>VIDEO 6 ejemplo_ambito.php, datos_otros.php</li>
 <li>VIDEO 7 ejemplo_estatica.php</li>
 <li>VIDEO 8 trabajo_strings.php</li>
-<li>VIDEO 9</li>
+<li>VIDEO 9 trabajo_operadores.php, validacion.php</li>
 <li>VIDEO 10</li>
 <li>VIDEO</li>
 <li>VIDEO</li>
